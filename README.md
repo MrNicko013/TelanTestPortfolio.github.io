@@ -331,10 +331,6 @@ Below are some of the projects I have worked on this year.                </p>
         </section>
     </main>
 
-    <footer class="text-center py-6 sm:py-8 bg-gray-900">
-        <p class="text-xs sm:text-sm md:text-base text-gray-500">&copy; <span id="currentYear"></span> Telan, Monique. All rights reserved.</p>
-    </footer>
-
     <div id="image-lightbox" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center p-4 hidden z-[100]">
         <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow-2xl w-full max-w-3xl max-h-[90vh] relative flex flex-col">
             <button id="lightbox-close" class="absolute top-3 right-3 text-gray-300 hover:text-white text-3xl leading-none font-bold z-10">&times;</button>
